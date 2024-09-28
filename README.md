@@ -4,7 +4,7 @@
 <div align="center">
 </a>
 </div>
-<img src="c++.jpg" alt="c++ symbol" width="500" height="300">
+<img src="https://github.com/haleema603/haleema603/blob/main/images/c++.png" alt="C++ Image" width="400" />
 <hr/>
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 </br>
